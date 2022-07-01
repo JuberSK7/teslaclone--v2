@@ -86,6 +86,7 @@ const Footer = () => {
 
 export default Footer;
 
+
 ///////////////////////////////////   STYLED COMPNENTS  ///////////////////////////////////
 
 const FooterContainer = styled.div`
